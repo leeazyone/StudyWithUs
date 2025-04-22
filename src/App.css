@@ -1,0 +1,5 @@
+/* App.css */
+a {
+  text-decoration: none; /* 밑줄 제거 */
+  color: inherit; /* 부모 글자색 따라가게 */
+}
